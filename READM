@@ -1,0 +1,19 @@
+Java 8 introduce for concise code and functional programming like scala and python
+New features
+1. Lambda expressions(anonymous functions)
+2. Stream API
+3. Default methods in interface
+4. Static methods
+5. Functional interfaces
+6. Optional
+7. Method reference and constructor reference
+8. Date API
+9. Nashorn and Java script engine
+
+Advantages
+1 concise code
+2 more readable and reusable
+3 more testable
+4 parallel operations
+
+
