@@ -2,11 +2,11 @@ Java 8 introduce for concise code and functional programming like scala and pyth
 New features
 1. Lambda expressions(anonymous functions)
 2. Stream API
-3. Default methods in interface
+3. Default methods in interface(Can't override methods form object class)
 4. Static methods
 5. Functional interfaces
 6. Optional
-7. Method reference and constructor reference
+7. Method reference and constructor reference(Code reusable)
 8. Date API
 9. Nashorn and Java script engine
 
