@@ -9,6 +9,7 @@ New features
 7. Method reference and constructor reference(Code reusable)
 8. Date API
 9. Nashorn and Java script engine
+10. Predicator, Function, Consumer, Supplier
 
 Advantages
 1 concise code
